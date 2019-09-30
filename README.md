@@ -1,4 +1,4 @@
-# jogo
+# Jogo das Portas Secomp 2019
 
 ## Project setup
 ```
